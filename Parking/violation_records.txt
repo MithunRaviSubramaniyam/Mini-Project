@@ -1,0 +1,5 @@
+Slot: 1
+Time: 2025-10-07 17:26:07.720884
+Plate: UNKNOWN
+Image: violations/violation_slot_1_1759838164.png
+------------------------------
